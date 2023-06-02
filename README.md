@@ -1,2 +1,4 @@
-# Expense-Tracker
-The main aim of this project “Expense Tracker aims to help everyone who are planning to know their expenses and save from it”.
+# Expense Tracker
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/agnideepmukherjee2001/pen/ExdqgZb](https://codepen.io/agnideepmukherjee2001/pen/ExdqgZb).
+
